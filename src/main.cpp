@@ -1,6 +1,6 @@
 #include <mbed.h>
-#include "HostIO.h"
-#include "SegDisplay.h"
+#include "../lib/HostIO.h"
+#include "../lib/SegDisplay.h"
 
 
 int main() {

@@ -1,4 +1,4 @@
-#include "HostIO.h"
+#include "../lib/HostIO.h"
 
 void HostInit(void) {
   printf("\r\nType two digit numbers to be displayed\r\n");
